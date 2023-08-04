@@ -1,6 +1,6 @@
 package by.morunov.socialnetwork.model.dto;
 
-import by.morunov.socialnetwork.model.User;
+
 import lombok.AllArgsConstructor;
 import lombok.Builder;
 import lombok.Data;

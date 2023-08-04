@@ -7,7 +7,7 @@ target/
 src/main/java/by/morunov/socialnetwork/controllers
 src/main/java/by/morunov/socialnetwork/exceptions
 src/main/java/by/morunov/socialnetwork/service
-src/main/java/by/morunov/socialnetwork/util
+
 
 src/test
 mvnw
