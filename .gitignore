@@ -5,7 +5,7 @@ target/
 !**/src/test/**/target/
 .mvn
 src/main/java/by/morunov/socialnetwork/controllers
-src/main/java/by/morunov/socialnetwork/exceptions
+
 
 
 
